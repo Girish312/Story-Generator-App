@@ -1,0 +1,2 @@
+C:/Users/IMxGIRISH/Desktop/story-generator-main/android/app/.cxx/Debug/ai2q4e35/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/IMxGIRISH/Desktop/story-generator-main/android/app/.cxx/Debug/ai2q4e35/x86_64/CMakeFiles/rebuild_cache.dir
